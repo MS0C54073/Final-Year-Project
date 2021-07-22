@@ -1,2 +1,8 @@
 # Final-Year-Project
 For my CS final year project, I built a Multi-vendor Ecommerce website that facilitates online transactions of goods and services through the transfer of information and funds via the Internet.
+The developed software is an online retail store that facilitates online transactions of goods and services through the transfer of information and funds via the Internet.
+The system is multilingual (supports Turkish and English) and multicurrency (ruble, kwacha, dollar), to enable users to make purchases from different regions.
+The functionality of the application that supports the work of the seller is still under development, since it becomes possible to make a sale only when the user sends a request to the administrator, and the administrator gives permission. The seller can sell goods only using the functions of the system administrator.
+Search functions (including auto-filling using AJAX and JQuery technologies), sorting, generating a menu of subcategories in the category tree, authorizing and registering a new user are fully implemented in the developed application.
+In the process of creating the system, in accordance with the assignment, the following diagrams were developed: BPMN business process diagram, use case model, conceptual domain model, activity diagrams, relational data model, interface state diagram, interface forms, component diagram and deployment diagram.
+For this graduate thesis, the system was developed using the Django framework, a Python web framework that promotes rapid development and clean, pragmatic design. On the client side, a template was used as it helps reduce workload and saves time.
