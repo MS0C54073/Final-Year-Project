@@ -1,8 +1,28 @@
-# Final-Year-Project
-For my CS final year project, I built a Multi-vendor Ecommerce website that facilitates online transactions of goods and services through the transfer of information and funds via the Internet.
-The developed software is an online retail store that facilitates online transactions of goods and services through the transfer of information and funds via the Internet.
-The system is multilingual (supports Turkish and English) and multicurrency (ruble, kwacha, dollar), to enable users to make purchases from different regions.
-The functionality of the application that supports the work of the seller is still under development, since it becomes possible to make a sale only when the user sends a request to the administrator, and the administrator gives permission. The seller can sell goods only using the functions of the system administrator.
-Search functions (including auto-filling using AJAX and JQuery technologies), sorting, generating a menu of subcategories in the category tree, authorizing and registering a new user are fully implemented in the developed application.
-In the process of creating the system, in accordance with the assignment, the following diagrams were developed: BPMN business process diagram, use case model, conceptual domain model, activity diagrams, relational data model, interface state diagram, interface forms, component diagram and deployment diagram.
-For this graduate thesis, the system was developed using the Django framework, a Python web framework that promotes rapid development and clean, pragmatic design. On the client side, a template was used as it helps reduce workload and saves time.
+<b>Admin Superuser Information</b> <br>
+<b>User Name :</b> admin<br>
+<b>User Passw:</b> Qwert12345*<br>
+
+# Django-E-Commerce
+This project is a multilingual and multi-currency e-commerce Python Djnago web project.<br><br>
+
+Web Template of this prpoject:  https://colorlib.com/wp/template/e-shop/ <br>
+
+<b> Downloading project:</b><br>
+ Clone as zip file and open it your computer or if you have git application<br>
+ https://github.com/MS0C54073/Final-Year-Project.git<br>
+ 
+<b>Before running this project you need intall below list apps and packages</b><br>
+
+Install Python -> https://www.python.org/<br>
+Install Pip   -> python get-pip.py<br>
+
+pip install Django<br>
+pip install django-admin-thumbnails<br>
+pip install django-ckeditor<br>
+pip install django-currencies<br>
+pip install django-mptt<br>
+pip install Pillow<br>
+
+<b>For running</b> <br>
+
+python manage.py runserver<br>
